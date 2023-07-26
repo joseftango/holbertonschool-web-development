@@ -11,7 +11,7 @@
 
 ## Story :
 
-![](/home/josef/holbertonschool-web-development/html_advanced/yy.jpg)
+![photo](./yy.jpg)
 
-![](/home/josef/holbertonschool-web-development/html_advanced/zz.jpg)
+![photo](./zz.jpg)
 
